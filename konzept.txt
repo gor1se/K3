@@ -1,0 +1,41 @@
+In diesem Projekt soll es darum gehen eine Plattform zu schaffen auf der Kopfrechenskills ermittelt, verbessert und verglichen werden können.
+
+Ich stelle mir verschiedenste Trainingsmöglichkeiten vor, außerdem soll es eine Übungsübersicht ähnlich wie bei GitHub geben.
+Als Farben stelle ich mir verschiedene Blautöne vor.
+
+Mögliche Farben:
+#14279B
+#3D56B2
+#5C7AEA
+#E6E6E6
+
+Alternativ:
+#334257
+#476072
+#548CA8
+#EEEEEE
+
+Es soll einen Trainingsbereich und einen Wettkampfbereich geben:
+
+Trainingsbereich:
+- verschiedene Klassenstufen:
+- am besten alle Jahrgangsstufen der Schulen
+- Die Jahrgangsstufen werden immer wieder durch neue Aufgaben ergänzt
+- Zu einfache Aufgaben sollen immer wieder gestrichen werden
+- es soll ein Intensivtraining geben, bei dem verschiedenste Übungen kombiniert werden
+- außerdem soll es Einzeltrainings geben um sich auf den verschiedenen Gebieten verbessern zu können
+
+Wettkampfbereich:
+- verschiedene Klassenstufen:
+- ABER: viel weniger verschiedene Stufen. Bsp. Stufe 1: Grundschule, Stufe 2: Hauptschule, Stufe 3: Realschule, Stufe 4: Abitur, Stufe 5: Uni (evtl.)
+- Die Tests werden immer gleich aufgebaut sein und es werden bei jedem durchlauf Punkte vergeben
+- Der Wettkampfbereich kann nur nach einer Anmeldung absolviert werden. Über jeden Teilnehmer werden verschiedenste Daten gesammelt
+- Mit den Daten werden Scores ermittelt, die man Öffentlich einsehen kann
+- Es soll eine Bestenliste geben. Beispiele für Ranglisten:
+    - Bester der Stufe XY
+    - Bester während der letzten drei Monate
+    - Möglicherweise könnte man ein Elosystem implementieren
+    - Dann gäbe es einen Besten
+- Zudem soll es möglich sein eine Gruppe zu erstellen, in der nur eingeladene Mitglieder teilnehmen können
+- In dieser Gruppe gibt es dann interne Ranglisten
+- Diese Gruppen sind für Schulklassen oder ähnliches gedacht
